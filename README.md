@@ -38,4 +38,4 @@ An Android app I developed to track trips made by multiple drivers sharing a car
 The app consists of six Activities (Main, Drive, OCR, Logbook, Filter, Options) and two helper classes:
 
 - `MyDatabaseHelper` – SQLite database operations
-- `CustomAdapter` – Displays trip data in a RecyclerView
+- `CustomAdapter` – Displays the trip data in a RecyclerView
